@@ -1,7 +1,9 @@
 
 <h1 align="center">Alexandre Merlin</h1>
 -
+
 ![Merlinovitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merlinovitch&theme=blue-green&show_icons=true)
+
 <h3 align="center">Connect with me:</h3>
 
 ![Gmail](https://img.shields.io/badge/a.merlin92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-merlin-82a395a8/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
