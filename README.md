@@ -2,7 +2,11 @@
 <h1 align="center">Alexandre Merlin</h1>
 
 
+<div align="center">
+
 ![Merlinovitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merlinovitch&theme=blue-green&show_icons=true)
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 
